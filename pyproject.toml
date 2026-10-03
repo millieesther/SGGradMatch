@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sggradmatch"
+version = "0.1.0"
+description = "A grounded hybrid recommender for selected Singapore master's programmes"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+sggradmatch = "sggradmatch.cli:main"
+sggradmatch-web = "sggradmatch.webapp:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

@@ -1,0 +1,22 @@
+programme_id,source_url,source_type,last_verified_at,verification_note
+NUS_MCOMP_AI,https://www.comp.nus.edu.sg/programmes/pg/mcomp-ai/,official programme page,2026-10-02,Scope modes normal duration AY2027/28 fee and curriculum checked
+NUS_MCOMP_GT,https://www.comp.nus.edu.sg/programmes/pg/mcomp-gen/,official programme page,2026-10-02,Scope modes normal duration AY2027/28 fee and curriculum checked
+NUS_MSBA,https://msba.nus.edu.sg/programme/,official programme page,2026-10-02,Scope modes duration admissions and tiered AY2027/28 fees checked; single fee left blank because residency is unknown
+NUS_DSML,https://www.math.nus.edu.sg/ms-dsml-v1/,official programme page,2026-10-02,Scope modes duration admissions and latest directly verifiable total fee checked
+NUS_DFINTECH,https://www.comp.nus.edu.sg/programmes/pg/mdft/,official programme page,2026-10-02,Scope modes duration curriculum and AY2026/27 fee checked; AY2027/28 fee still unconfirmed
+NUS_AII,https://scale.nus.edu.sg/programmes/graduate/msc-%28artificial-intelligence-innovation%29,official programme page,2026-10-02,Scope modes duration fee curriculum and experience rule checked
+NUS_SIDT,https://scale.nus.edu.sg/programmes/graduate/msc-%28smart-industries-and-digital-transformation%29,official programme page,2026-10-02,Scope modes duration fee curriculum and preparatory programming guidance checked
+NTU_MSAI,https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/master-of-science-in-artificial-intelligence,official programme page,2026-10-02,Scope modes duration AY2027/28 fee curriculum and admissions checked
+NTU_MSDS,https://www.ntu.edu.sg/spms/admissions/grad/detail/master-of-science-in-data-science-%28msds%29,official programme page,2026-10-02,Scope modes duration AY2027/28 fee curriculum and admissions checked
+NTU_ANALYTICS,https://www.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-analytics,official programme page,2026-10-02,Scope modes duration AY2027/28 fee curriculum and admissions checked
+NTU_FINTECH,https://www.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology,official programme page,2026-10-02,Scope modes duration AY2027/28 fee curriculum and admissions checked
+NTU_ENTERPRISE_AI,https://www.ntu.edu.sg/spms/admissions/grad/detail/master-of-science-in-enterprise-artificial-intelligence,official programme page,2026-10-02,Scope modes duration AY2027 fee curriculum and admissions checked
+NTU_MSIS,https://www.ntu.edu.sg/spms/admissions/grad/detail/master-in-science-in-information-systems,official programme page,2026-10-02,Scope modes duration AY2026/27 fee curriculum and admissions checked
+NTU_MSBA,https://www.ntu.edu.sg/business/education/graduate-programme/master-of-science-in-business-analytics,official programme page,2026-10-02,Scope full-time duration 2027 fee curriculum and admissions checked
+SMU_MITB,https://masters.smu.edu.sg/programme/master-of-it-in-business,official programme page,2026-10-02,Tracks modes duration fee curriculum and experience guidance checked
+SMU_MSCOMPUTING,https://computing.smu.edu.sg/mscomputing,official programme page,2026-10-02,Scope modes duration fee curriculum and limited part-time admission checked
+SMU_MAF,https://masters.smu.edu.sg/programme/msc-in-applied-finance,official programme page,2026-10-02,Scope modes duration August 2027 fee curriculum and admissions checked
+SMU_MDSE,https://masters.smu.edu.sg/programme/master-of-data-science-economics,official programme page,2026-10-02,Scope modes duration fee curriculum and admissions checked
+SMU_MSFE,https://masters.smu.edu.sg/programme/master-in-financial-economics,official programme page,2026-10-02,Scope modes duration August 2027 fee curriculum and admissions checked
+SMU_MQF,https://masters.smu.edu.sg/programme/msc-in-quantitative-finance,official programme page,2026-10-02,Scope modes duration August 2027 fee curriculum and admissions checked
+SMU_MSE,https://masters.smu.edu.sg/programme/master-in-economics,official programme page,2026-10-02,Scope modes duration August 2027 fee curriculum and admissions checked

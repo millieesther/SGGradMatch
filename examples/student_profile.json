@@ -1,0 +1,11 @@
+{
+  "profile_id": "demo-data-career-switcher",
+  "academic_background": "business analytics",
+  "career_goal": "become a data scientist working on business problems",
+  "interests": ["machine learning", "data science", "business analytics"],
+  "budget_sgd": 65000,
+  "preferred_mode": "full-time",
+  "max_duration_months": 18,
+  "years_experience": 2
+}
+

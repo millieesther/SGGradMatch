@@ -1,0 +1,621 @@
+{
+  "benchmark_status": "second-pass author-reviewed labels; self-evaluation, not independent ground truth",
+  "rule": {
+    "method": "rule",
+    "profiles": 30,
+    "profile_success_rate_at_3": 0.9667,
+    "precision_at_3": 0.9333,
+    "hard_constraint_violation_rate": 0.0,
+    "cases": [
+      {
+        "profile_id": "test01",
+        "recommendations": [
+          "NTU_MSAI",
+          "NUS_MCOMP_AI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test02",
+        "recommendations": [
+          "NTU_MSAI",
+          "NUS_MCOMP_AI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test03",
+        "recommendations": [
+          "NUS_DSML",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test04",
+        "recommendations": [
+          "NTU_ANALYTICS",
+          "NUS_MSBA",
+          "SMU_MSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test05",
+        "recommendations": [
+          "NUS_AII",
+          "NTU_ENTERPRISE_AI",
+          "NTU_MSIS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test06",
+        "recommendations": [
+          "NTU_ENTERPRISE_AI",
+          "NUS_SIDT",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test07",
+        "recommendations": [
+          "SMU_MITB",
+          "SMU_MAF",
+          "NTU_ENTERPRISE_AI"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test08",
+        "recommendations": [
+          "SMU_MQF",
+          "SMU_MAF",
+          "SMU_MSFE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test09",
+        "recommendations": [
+          "SMU_MSFE",
+          "SMU_MSE",
+          "SMU_MDSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test10",
+        "recommendations": [
+          "SMU_MDSE",
+          "SMU_MSE",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test11",
+        "recommendations": [
+          "NUS_SIDT",
+          "NUS_MSBA",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test12",
+        "recommendations": [
+          "NTU_MSIS",
+          "NUS_SIDT",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test13",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NTU_ANALYTICS",
+          "NTU_MSDS"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test14",
+        "recommendations": [
+          "NUS_MSBA",
+          "SMU_MAF",
+          "SMU_MDSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test15",
+        "recommendations": [
+          "NUS_MSBA",
+          "NTU_ANALYTICS",
+          "NTU_MSIS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test16",
+        "recommendations": [
+          "NTU_ENTERPRISE_AI",
+          "NUS_SIDT",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test17",
+        "recommendations": [
+          "NUS_AII",
+          "SMU_MDSE",
+          "SMU_MITB"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test18",
+        "recommendations": [
+          "SMU_MAF",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test19",
+        "recommendations": [
+          "NTU_MSAI",
+          "NUS_MCOMP_AI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test20",
+        "recommendations": [
+          "NUS_SIDT",
+          "NTU_MSIS",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test21",
+        "recommendations": [
+          "SMU_MQF",
+          "SMU_MSFE",
+          "NTU_ANALYTICS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test22",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NUS_MCOMP_AI",
+          "SMU_MQF"
+        ],
+        "hits": 1,
+        "success": false
+      },
+      {
+        "profile_id": "test23",
+        "recommendations": [
+          "SMU_MSE",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test24",
+        "recommendations": [
+          "NUS_AII",
+          "SMU_MITB",
+          "NTU_MSIS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test25",
+        "recommendations": [
+          "NTU_ANALYTICS",
+          "NUS_MSBA",
+          "NUS_SIDT"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test26",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NUS_AII",
+          "NUS_SIDT"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test27",
+        "recommendations": [
+          "SMU_MAF",
+          "SMU_MQF",
+          "NUS_DSML"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test28",
+        "recommendations": [
+          "NUS_AII",
+          "NTU_MSIS",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test29",
+        "recommendations": [
+          "SMU_MDSE",
+          "SMU_MSE",
+          "SMU_MSFE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test30",
+        "recommendations": [
+          "NTU_ENTERPRISE_AI",
+          "NTU_MSIS",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      }
+    ]
+  },
+  "hybrid": {
+    "method": "hybrid",
+    "profiles": 30,
+    "profile_success_rate_at_3": 1.0,
+    "precision_at_3": 0.9667,
+    "hard_constraint_violation_rate": 0.0,
+    "cases": [
+      {
+        "profile_id": "test01",
+        "recommendations": [
+          "NTU_MSAI",
+          "NUS_MCOMP_AI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test02",
+        "recommendations": [
+          "NTU_MSAI",
+          "NUS_MCOMP_AI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test03",
+        "recommendations": [
+          "NUS_DSML",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test04",
+        "recommendations": [
+          "NTU_ANALYTICS",
+          "NUS_MSBA",
+          "SMU_MSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test05",
+        "recommendations": [
+          "NUS_AII",
+          "NTU_ENTERPRISE_AI",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test06",
+        "recommendations": [
+          "NUS_SIDT",
+          "SMU_MITB",
+          "NTU_ENTERPRISE_AI"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test07",
+        "recommendations": [
+          "SMU_MAF",
+          "SMU_MITB",
+          "SMU_MSFE"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test08",
+        "recommendations": [
+          "SMU_MQF",
+          "SMU_MSFE",
+          "SMU_MAF"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test09",
+        "recommendations": [
+          "SMU_MSFE",
+          "SMU_MSE",
+          "SMU_MDSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test10",
+        "recommendations": [
+          "SMU_MSE",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test11",
+        "recommendations": [
+          "NUS_SIDT",
+          "SMU_MITB",
+          "NUS_MSBA"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test12",
+        "recommendations": [
+          "NTU_MSIS",
+          "SMU_MSCOMPUTING",
+          "NUS_SIDT"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test13",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NTU_MSIS",
+          "NUS_SIDT"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test14",
+        "recommendations": [
+          "NUS_MSBA",
+          "SMU_MAF",
+          "SMU_MDSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test15",
+        "recommendations": [
+          "NUS_MSBA",
+          "NTU_ANALYTICS",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test16",
+        "recommendations": [
+          "NTU_ENTERPRISE_AI",
+          "SMU_MITB",
+          "NUS_SIDT"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test17",
+        "recommendations": [
+          "NUS_AII",
+          "SMU_MITB",
+          "SMU_MSE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test18",
+        "recommendations": [
+          "SMU_MDSE",
+          "SMU_MAF",
+          "SMU_MSFE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test19",
+        "recommendations": [
+          "NUS_MCOMP_AI",
+          "NTU_MSAI",
+          "SMU_MSCOMPUTING"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test20",
+        "recommendations": [
+          "NTU_MSIS",
+          "NUS_SIDT",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test21",
+        "recommendations": [
+          "SMU_MSFE",
+          "SMU_MQF",
+          "SMU_MAF"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test22",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NTU_MSDS",
+          "NUS_MCOMP_AI"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test23",
+        "recommendations": [
+          "SMU_MSE",
+          "SMU_MDSE",
+          "NUS_MSBA"
+        ],
+        "hits": 2,
+        "success": true
+      },
+      {
+        "profile_id": "test24",
+        "recommendations": [
+          "NUS_AII",
+          "SMU_MITB",
+          "NTU_MSIS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test25",
+        "recommendations": [
+          "NTU_ANALYTICS",
+          "NUS_MSBA",
+          "NUS_SIDT"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test26",
+        "recommendations": [
+          "SMU_MSCOMPUTING",
+          "NTU_MSIS",
+          "SMU_MITB"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test27",
+        "recommendations": [
+          "SMU_MAF",
+          "SMU_MQF",
+          "SMU_MSFE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test28",
+        "recommendations": [
+          "NUS_AII",
+          "SMU_MITB",
+          "NTU_MSIS"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test29",
+        "recommendations": [
+          "SMU_MDSE",
+          "SMU_MSE",
+          "SMU_MSFE"
+        ],
+        "hits": 3,
+        "success": true
+      },
+      {
+        "profile_id": "test30",
+        "recommendations": [
+          "SMU_MITB",
+          "NUS_AII",
+          "NTU_ENTERPRISE_AI"
+        ],
+        "hits": 3,
+        "success": true
+      }
+    ]
+  }
+}
